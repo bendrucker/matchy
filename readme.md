@@ -1,4 +1,4 @@
-# matchy [![Build Status](https://travis-ci.org/bendrucker/matchy.svg?branch=master)](https://travis-ci.org/bendrucker/matchy)
+# matchy [![Build Status](https://travis-ci.org/bendrucker/matchy.svg?branch=master)](https://travis-ci.org/bendrucker/matchy) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/matchy.svg)](https://greenkeeper.io/)
 
 > Match shallow objects
 
